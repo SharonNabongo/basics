@@ -1,0 +1,17 @@
+img{
+    width:250px;
+    height:200px;
+}
+.data-1{
+color:green;
+font-style:italic;
+}
+.data-3{
+    color:purple;
+    font-weight:bold;
+}
+{
+    .data-1{
+    corol:pink;
+    font-style:italic;
+}
